@@ -1,0 +1,24 @@
+{
+  "name": "cooled",
+  "version": "1.0.0",
+  "description": "Make function with a cooldown to avoid too Frequent call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"readme": "pretty-readme > readme.md"
+  },
+  "author": "chunpu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chunpu/cooled.git"
+  },
+  "keywords": [
+    "cooldown",
+    "limit"
+  ],
+  "bugs": {
+    "url": "https://github.com/chunpu/cooled/issues"
+  },
+  "homepage": "https://github.com/chunpu/cooled"
+}
